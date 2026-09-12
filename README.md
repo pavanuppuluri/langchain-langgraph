@@ -10,5 +10,8 @@
 ## Tool Example
 <img width="552" height="436" alt="image" src="https://github.com/user-attachments/assets/edc9e6cc-bd6d-4f54-8483-b3664f779ae2" />
 
+### Structured Outputs
+
+<img width="829" height="541" alt="image" src="https://github.com/user-attachments/assets/54ecf73e-9c40-4ce4-841e-e695b1ed3a22" />
 
 
