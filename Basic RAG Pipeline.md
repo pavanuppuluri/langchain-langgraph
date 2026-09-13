@@ -14,8 +14,10 @@
 
 <img width="1376" height="605" alt="image" src="https://github.com/user-attachments/assets/6f569bdf-02a5-4adb-a513-9800fcee79b0" />
 
-##### Where is PineCone fits in?
+##### Where is Pinecone fits in?
 - We talked about embeddings that we create from the text, the vectors
 - We need to store those vectors somewhere, we want the ability to search in vector space for the closest vectors of the current one
+<br><br>
+All of this is being handled by vector databases, Pinecone in this case
 
 <img width="970" height="688" alt="image" src="https://github.com/user-attachments/assets/75682383-d743-46f5-b5aa-fa564c487194" />
