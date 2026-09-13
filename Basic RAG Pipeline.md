@@ -26,3 +26,8 @@ All of this is being handled by vector databases, Pinecone in this case
 ##### In the context of RAG ingestion, what role do OpenAIEmbeddings serve?
 - They convert text chunks into high-dimensional vector representations
 - OpenAIEmbeddings transform text chunks into dense numerical vectors that capture semantic meaning. These embeddings enable similarity search in the vector store, allowing retrieval of relevant document chunks based on query similarity.
+
+##### What happens when you call PineconeVectorStore.from_documents(docs, embeddings, index_name="rag-index")?
+- It creates embeddings for documents and stores both vectors and metadata in Pinecone
+- This method processes each document by generating embeddings using the provided embedding model, then stores both the vector representations and document metadata (including original text content) in the specified Pinecone index for later retrieval.
+
