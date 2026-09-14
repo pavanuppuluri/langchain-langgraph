@@ -1,0 +1,9 @@
+langchain-core
+langchain-openai
+langchain-postgres
+langchain-text-splitters
+psycopg[binary]
+requests
+beautifulsoup4
+python-dotenv
+pytest
